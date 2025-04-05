@@ -6,7 +6,8 @@
 
 🎥 Video Walkthrough: https://youtu.be/xs5dFruSNis
 
-🌟🌟Quick Snippets 🌟🌟 :
+🌟🌟Quick Snippets 🌟🌟 
+
 ![Homepage](https://github.com/user-attachments/assets/e2495bdd-d8a4-4540-a10f-631b7895f545)
 
 ![About](https://github.com/user-attachments/assets/51d56cd4-bde5-41c1-b387-d2590a42b816)
