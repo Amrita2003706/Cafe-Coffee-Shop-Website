@@ -1,7 +1,9 @@
 ☕ Cafe Coffee Shop Website – Full Responsive Frontend Project
 
 🌐 Live Demo:  https://amrita2003706.github.io/Cafe-Coffee-Shop-Website/
+
 📂 GitHub Repo: Cafe-Coffee-Shop-Website
+
 🎥 Video Walkthrough: https://youtu.be/xs5dFruSNis
 
 🌟🌟Quick Snippets 🌟🌟 :
