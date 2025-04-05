@@ -6,9 +6,13 @@
 
 🌟🌟Quick Snippets 🌟🌟 :
 ![Homepage](https://github.com/user-attachments/assets/e2495bdd-d8a4-4540-a10f-631b7895f545)
+
 ![About](https://github.com/user-attachments/assets/51d56cd4-bde5-41c1-b387-d2590a42b816)
+
 ![Menu](https://github.com/user-attachments/assets/419db1c6-8d78-42a5-8a18-22aafbe7e455)
+
 ![Testimonials](https://github.com/user-attachments/assets/65e15286-91e4-401c-9331-caa89e103546)
+
 ![Contact Us](https://github.com/user-attachments/assets/52fca1ef-9373-461c-9f57-ba466a429e54)
 
 📌 Project Overview:
